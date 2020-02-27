@@ -7,5 +7,5 @@ an 'O' or 'X' depending on the turn.
 
 Below is an animation of the game being played.
 
-![Animated gif](animation.GIF "Animation that shows game")
+![Animated gif](animation.gif "Animation that shows game")
 
