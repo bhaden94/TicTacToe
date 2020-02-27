@@ -5,6 +5,6 @@ This program uses a 2d array to display a grid of buttons.
 'X' always goes first and each time a button is pressed it is updated with either
 an 'O' or 'X' depending on the turn.
 
-Below are some screenshots of the program is action. I am working on adding a 
-GIF showing a game being played.
+Below is an animation of the game being played.
+![Animated gif](animation-of-game.mp4 "Animation that shows game")
 
