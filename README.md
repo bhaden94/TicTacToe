@@ -8,4 +8,3 @@ an 'O' or 'X' depending on the turn.
 Below are some screenshots of the program is action. I am working on adding a 
 GIF showing a game being played.
 
-![Tic Tac Toe](media/Initial Display.PNG ?raw=true "Initial Display")
