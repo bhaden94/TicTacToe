@@ -6,5 +6,6 @@ This program uses a 2d array to display a grid of buttons.
 an 'O' or 'X' depending on the turn.
 
 Below is an animation of the game being played.
-![Animated gif](animation-of-game.mp4 "Animation that shows game")
+
+![Animated gif](animation.GIF "Animation that shows game")
 
